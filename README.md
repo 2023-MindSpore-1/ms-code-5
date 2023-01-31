@@ -1,7 +1,5 @@
 # MindSpore implementation of EvoExplore
 
-[pytorch implementation](https://github.com/zjs123/EvoExplore)
-
 Paper: "Temporal knowledge graph representation learning with local and global evolutions"
 
 In this paper, we propose a novel framework to learn representations for temporal knowledge graph via modelling its local and global structure co-evolution, and this repository contains the  benchmark datasets used in the paper and the implementation of our proposed framework.
